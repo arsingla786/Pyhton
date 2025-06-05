@@ -20,7 +20,10 @@ print(list)
 
 list.pop(2) #removes element at index 2
 
+print(list)  
 
+list[1]=10 #edit any elment in list
+print(list)
 #these functions make changes in the real list (mutating)
 
 
