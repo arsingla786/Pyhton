@@ -29,3 +29,17 @@ else:
     print('not palindrome')    
 
 
+#Q- count the students with 'A' grade in a tuple
+
+grades = ('A','B','C','A','C','A','D')
+
+print("total A graders = ",grades.count('A'))
+
+#Q- store the above values in a list and sort it
+
+grades = ['A','B','C','A','C','A','D']
+
+grades.sort()
+print( ) 
+print(grades)
+
